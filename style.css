@@ -1,0 +1,36 @@
+/* .container{
+    background: rgb(238,112,168);
+background: linear-gradient(0deg, rgba(238,112,168,0.5102415966386555) 33%, rgba(248,142,60,0.6194852941176471) 45%, rgba(77,200,239,0.5326505602240896) 100%);
+} */
+
+.container{
+    margin-bottom: 20px;
+    margin-top: -20px;
+}
+.iconos{
+    margin-top: 60px;
+}
+.iconos img{
+    width: 40px;
+    margin-bottom: 20px;
+    
+}
+.iconos p{
+
+    font-size: large;
+}
+
+h1, p{
+    font-family: IBM Plex Serif;
+    color: black;
+}
+
+p{
+    color: rgb(68, 68, 68);
+}
+.round {
+	border: 1px solid #000000;
+	border-radius: 90%;
+	padding: 7px;
+    margin-bottom: 20px;
+    }
